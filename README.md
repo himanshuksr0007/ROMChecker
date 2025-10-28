@@ -1,5 +1,5 @@
 # ROMChecker
-``` This readme file is created by taking help from AI. ```
+``` This readme file and some code for this project (~10%) is created by taking help from AI. ```
 
 A comprehensive, real-time security analysis tool for custom ROM developers, enthusiasts, and power users. ROMChecker provides deep device security insights including integrity verification, root detection, bootloader analysis, and ROM signature inspection.
 
